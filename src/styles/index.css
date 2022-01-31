@@ -10,3 +10,21 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.container {
+    background-color: #090909;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 120px;
+    width: 700px;
+}
+
+.second {
+    color: white;
+    font-size: 50px;
+    background-color: #090909;
+    padding: 10px;
+    border-color: #121212;
+    border-style: solid;
+    border-width: 4px;
+}
